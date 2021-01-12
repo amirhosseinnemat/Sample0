@@ -1,0 +1,19 @@
+body {
+    width: 80%;
+    margin: 50px auto;
+}
+
+p {
+    font-size: 36px;
+}
+
+p::first-letter {
+    font-family: cursive;
+    font-size: 40px;
+    color: orange;
+}
+
+p::first-line {
+    font-family: monospace;
+    color: #ff3d99;
+}
