@@ -1,0 +1,27 @@
+p {
+    font-size: 3rem;
+}
+
+.first {
+    text-decoration: none;
+}
+
+.second {
+    text-decoration: underline;
+}
+
+.third {
+    text-decoration: overline;
+}
+
+.fourth {
+    text-decoration: line-through;
+}
+
+.fifth {
+    text-decoration: underline overline line-through orange;
+}
+
+a:hover {
+    color: red;
+}
