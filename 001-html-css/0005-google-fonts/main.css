@@ -1,0 +1,47 @@
+body {
+    width: 70%;
+    margin: 100px auto;
+    border: 10px double darkblue;
+}
+
+.container {
+    padding: 50px;
+    border: 10px double #45aaf5;
+    margin: 20px;
+}
+
+h1 {
+    font-family: sans-serif;
+    text-align: center;
+    color: dodgerblue;
+    font-size: 3rem;
+}
+
+p {
+    font-size: 20px;
+    color: darkblue;
+}
+
+.header1, .first {
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+.header2, .second {
+    font-family: 'Josefin Slab', serif;
+}
+
+.one {
+    font-weight: 300;
+}
+
+.two {
+    font-weight: 600;
+}
+
+.three {
+    font-weight: 900;
+}
+
+p:last-child {
+    font-weight: 700;
+}
