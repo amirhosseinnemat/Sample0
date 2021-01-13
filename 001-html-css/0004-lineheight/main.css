@@ -1,0 +1,22 @@
+body {
+    width: 60%;
+    margin: 100px auto;
+}
+
+p{
+    font-size: 2rem;
+    font-family: monospace;
+
+    /*lineheight and wordspacing*/
+    line-height: 3rem;
+    word-spacing: 10px;
+
+    border:2px dotted red;
+    padding: 20px;
+}
+
+    /*letterSpacing*/
+p::first-line{
+    color: coral;
+    letter-spacing: 20px;
+}
