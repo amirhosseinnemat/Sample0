@@ -16,4 +16,5 @@ p::first-letter {
 p::first-line {
     font-family: monospace;
     color: #ff3d99;
+    text-indent: 20px;
 }
