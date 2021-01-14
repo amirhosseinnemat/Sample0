@@ -1,0 +1,8 @@
+.selection::selection {
+    background-color: #ff3d99;
+    color: whitesmoke;
+}
+
+p {
+    font-size: 2rem;
+}
