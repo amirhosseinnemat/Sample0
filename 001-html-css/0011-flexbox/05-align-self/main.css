@@ -1,0 +1,23 @@
+body {
+    height: 100vh;
+    display: flex;
+    flex-flow: row wrap;
+    align-items: stretch;
+}
+div {
+    height: 100px;
+    width: 200px;
+    text-align: center;
+    background-color: #b8f5ff;
+    border: 3px solid darkblue;
+    margin: 5px;
+
+}
+.four{
+    height: auto;
+    align-self: stretch;
+    /*align-self: flex-start;*/
+    /*align-self: flex-end;*/
+}
+
+

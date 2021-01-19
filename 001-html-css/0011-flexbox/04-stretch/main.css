@@ -1,0 +1,23 @@
+body {
+    height: 100vh;
+    display: flex;
+    flex-flow: row wrap;
+    align-items: stretch;
+}
+
+
+div {
+    /*height: 100px;*/
+
+    /*in stretch max or min height\width is acceptable and
+    height\width is not acceptable */
+
+    /*max-height: 400px;*/
+
+
+    width: 200px;
+    text-align: center;
+    background-color: #b8f5ff;
+    border: 3px solid darkblue;
+    margin: 5px;
+}

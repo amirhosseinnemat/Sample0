@@ -1,0 +1,23 @@
+* {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    box-sizing: border-box;
+}
+
+body {
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: center;
+    align-items: center;
+
+    border: 10px solid #2b00be;
+    height: 100vh;
+}
+
+
+div {
+    font-size: 10rem;
+    color: gray;
+    text-shadow: 5px 5px 7px #2b00be;
+}
