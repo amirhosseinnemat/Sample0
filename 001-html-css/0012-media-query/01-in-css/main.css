@@ -1,0 +1,11 @@
+@media (max-width: 600px) {
+    p{
+        font-size: 2rem;
+        color: #ff3d99;
+    }
+}
+
+h1{
+    color: red;
+}
+
