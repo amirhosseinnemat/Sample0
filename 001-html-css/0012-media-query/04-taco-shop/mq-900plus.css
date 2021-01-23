@@ -1,0 +1,15 @@
+nav {
+    width: 20%;
+    min-height: 400px;
+}
+
+main {
+    width: 80%;
+}
+
+ul {
+    flex-flow: column wrap;
+    justify-content: center;
+    align-items: center;
+}
+

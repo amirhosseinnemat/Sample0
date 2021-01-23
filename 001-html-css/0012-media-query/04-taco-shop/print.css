@@ -1,0 +1,8 @@
+nav {
+    display: none;
+}
+
+body, main {
+    border-color: darkblue;
+    color: darkblue;
+}
