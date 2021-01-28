@@ -1,0 +1,37 @@
+html, body, div, img, p {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    box-sizing: border-box;
+}
+
+div {
+    border: 5px solid red;
+}
+
+/*without overflow */
+img {
+    width: 300px;
+    height: 200px;
+    border: 3px solid lawngreen;
+    float: right;
+}
+
+/*with overflow*/
+.container2{
+    overflow: auto;
+}
+
+p {
+    font-size: 1.5rem;
+}
+
+img, div, p {
+    margin: 20px;
+}
+
+
+.manyline {
+    height: 300px;
+    border: none;
+}

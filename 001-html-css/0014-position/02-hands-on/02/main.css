@@ -1,0 +1,28 @@
+* {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    box-sizing: border-box;
+}
+
+
+body {
+    width: 800px;
+    margin: auto;
+}
+
+div {
+    height: 250px;
+    width: 250px;
+    margin: 0 auto;
+    background-color: tomato;
+    border: 5px solid red;
+
+}
+
+.block2 {
+    position: relative;
+    top: 30px;
+    left: 50px;
+}
+

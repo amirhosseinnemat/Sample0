@@ -1,0 +1,34 @@
+* {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    box-sizing: border-box;
+}
+
+
+div {
+    color: whitesmoke;
+    font-size: 1.5rem;
+}
+
+.block1 {
+    width: 800px;
+    height: 800px;
+    border: 5px solid red;
+    background-color: tomato;
+
+    position: relative;
+    top: 100px;
+    left: 20px;
+}
+
+.block2 {
+    width: 200px;
+    height: 200px;
+    border: 4px solid blue;
+    background-color: dodgerblue;
+
+    position: absolute;
+    top: 100px;
+    right: 20px;
+}
