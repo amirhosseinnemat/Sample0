@@ -1,0 +1,21 @@
+html, body, div {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    box-sizing: border-box;
+}
+
+div{
+    border: 10px double darkblue;
+    height: 800px;
+
+    background-image: url("img/14-512.png");
+    /*background-repeat: no-repeat;*/
+    background-repeat: repeat-x;
+    /*background-repeat: repeat-y;*/
+
+    background-size: 400px 300px;
+    /*background-size: cover;*/
+    /*background-size: contain;*/
+
+}

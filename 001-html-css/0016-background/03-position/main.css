@@ -1,0 +1,21 @@
+html, body, div {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    box-sizing: border-box;
+}
+
+div{
+    margin: 100px;
+    border: 10px double darkblue;
+    height: 600px;
+    width: 600px;
+
+    background-image: url("img/14-512.png");
+    background-repeat: no-repeat;
+    background-size: 250px 250px;
+    /*background-position: center;*/
+    background-position: right;
+
+
+}

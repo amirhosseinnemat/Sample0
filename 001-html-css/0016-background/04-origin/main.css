@@ -1,0 +1,37 @@
+html, body, div {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    box-sizing: border-box;
+}
+
+body{
+    width: 90%;
+    margin: 100px auto;
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: center;
+}
+
+div{
+    margin: 5px;
+    border: 10px double darkblue;
+    height: 600px;
+    width: 32%;
+
+    padding: 40px;
+    background-color: #c7c3c7;
+    background-image: url("img/dog--v2.png");
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+.box1{
+    background-origin: content-box;
+}
+.box2{
+    background-origin: border-box;
+}
+.box3{
+    background-origin: padding-box;
+}
