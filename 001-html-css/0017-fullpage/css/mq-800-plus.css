@@ -1,0 +1,23 @@
+#atf-center {
+    background-image: url("../img/background-photo.jpg");
+}
+
+#atf-center > div{
+
+    height: 25vh;
+}
+
+
+h1 {
+    font-size: 3rem;
+}
+
+h2 {
+    font-size: 1.4rem;
+    margin: 20px;
+
+}
+
+h3 {
+    font-size: 1.4rem;
+}

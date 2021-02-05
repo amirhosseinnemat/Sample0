@@ -1,0 +1,69 @@
+html {
+    font-family: 'Cantarell', sans-serif;
+    color: #fdfdff;
+}
+
+#atf-center {
+    height: 100vh;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    /* background-image */
+
+    background-image: url("../img/background-photo-mobile-devices.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
+
+#container {
+
+    height: 80vh;
+
+    display: flex;
+    flex-flow: column;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.atf-center-center {
+    display: flex;
+    flex-flow: column;
+    justify-content: space-between;
+    align-items: center;
+}
+
+
+h1 {
+    font-size: 2rem;
+    text-align: center;
+}
+
+h2 {
+    font-size: 1rem;
+    font-weight: 700;
+    text-align: center;
+
+
+}
+
+h3 {
+    font-size: 1rem;
+    text-align: center;
+
+}
+
+button {
+    font-size: 1rem;
+    font-weight: 700;
+    padding: .7rem 1.4rem;
+
+    border: 1px solid #7dfffa;
+    border-radius: 3px;
+
+    color: #7dfffa;
+    background: none;
+}
