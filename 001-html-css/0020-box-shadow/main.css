@@ -1,0 +1,22 @@
+* {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    box-sizing: border-box;
+}
+
+body {
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+div {
+    height: 250px;
+    width: 250px;
+    background-color: rebeccapurple;
+
+    /*box-shadow: X | Y | blur | color;*/
+    box-shadow: 8px 10px 5px mediumpurple;
+}
