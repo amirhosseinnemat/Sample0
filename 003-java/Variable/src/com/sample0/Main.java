@@ -15,5 +15,6 @@ public class Main {
         Date now = new Date();
         System.out.println("today is : " + now);
 
+        System.out.println("\"Address\" is :\n D:\\myProject\\java-sample");
     }
 }
