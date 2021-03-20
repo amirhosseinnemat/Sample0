@@ -14,6 +14,6 @@ public class Main {
 
         Date now = new Date();
         System.out.println("today is : " + now);
-    
+
     }
 }
