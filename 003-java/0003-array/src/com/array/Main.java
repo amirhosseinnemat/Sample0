@@ -18,5 +18,7 @@ public class Main {
         String[] names = {"Ali","Amir","Ahmad","Javad"};
         System.out.println(Arrays.toString(names));
         System.out.println(names.length);
+
+
     }
 }
