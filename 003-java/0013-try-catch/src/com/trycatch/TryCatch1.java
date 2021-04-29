@@ -13,5 +13,7 @@ public class TryCatch1 {
         } catch (Exception e) {
             System.out.println("Oops! Please enter a valid number!");
         }
+
+        System.out.println("Goood Bye ...");
     }
 }
