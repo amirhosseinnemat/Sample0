@@ -7,7 +7,7 @@ var profile = {
         if (score >= 10)
             alert("Congrats! you pass the exam.");
         else
-            alert("Oops! you failed, you should study harder.")
+            alert("Oops! you failed, you should study harder.");
     }
 };
 
