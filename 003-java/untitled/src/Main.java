@@ -9,5 +9,9 @@ public class Main {
             b = b-a;
         }
         System.out.println(a);
+
+        int student$ = 20;
+
+        System.out.println(student$);
     }
 }

@@ -21,3 +21,19 @@ console.log(wordIndex);
  */
 
 console.log(arr1);
+
+let shopList = ['soda', 'bread', 'fruit', 'sugar']
+
+let res = `your first item is : ${shopList[0]}\nyour last item is : ${shopList[shopList.length - 1]}`
+
+console.log('list : ' + shopList)
+console.log(res)
+
+
+// array method : splice()
+
+let languages = ['java', 'javaScript', 'scala', 'python']
+console.log(languages)
+
+languages.splice(2, 2, 'golang', 'julia', 'c++')
+console.log(languages)
